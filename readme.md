@@ -1,8 +1,8 @@
 ## Simple example of UI Testing Framework using Python, Pytest, and Playwright.
 #### Clone project
 ```
-git clone
-cd 
+git clone https://github.com/vsshk/python-pytest-playwright-simple-example.git
+cd python-pytest-playwright-simple-example
 ```
 ### install
 ```
